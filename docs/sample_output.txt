@@ -1,0 +1,110 @@
+
+=== ORDERINSIGHT CUSTOMER ORDER ANALYTICS REPORT ===
+
+Available Product Categories:
+- Clothing
+- Electronics
+- Home Essentials
+
+Customer Summary:
+- Aarav Sharma: $138.00 (High-Value Buyer)
+- Diya Iyer: $52.00 (Moderate Buyer)
+- Ishaan Kulkarni: $62.00 (Moderate Buyer)
+- Kunal Patel: $72.00 (Moderate Buyer)
+- Meera Nair: $44.00 (Low-Value Buyer)
+- Priya Reddy: $38.00 (Low-Value Buyer)
+- Rohan Joshi: $160.00 (High-Value Buyer)
+- Saanvi Desai: $112.00 (High-Value Buyer)
+
+High-Value Customers:
+- Aarav Sharma
+- Rohan Joshi
+- Saanvi Desai
+
+Revenue by Category:
+- Clothing: $174.00
+- Electronics: $376.00
+- Home Essentials: $128.00
+
+Customers Who Purchased Electronics:
+- Aarav Sharma
+- Ishaan Kulkarni
+- Kunal Patel
+- Meera Nair
+- Priya Reddy
+- Rohan Joshi
+- Saanvi Desai
+
+Top 3 Highest-Spending Customers:
+- Rohan Joshi: $160.00
+- Aarav Sharma: $138.00
+- Saanvi Desai: $112.00
+
+Most Frequently Purchased Products:
+- Bedsheet
+- Kurta
+- USB Cable
+
+Customers Who Purchased from Multiple Categories:
+- Aarav Sharma
+- Diya Iyer
+- Ishaan Kulkarni
+- Kunal Patel
+- Meera Nair
+- Priya Reddy
+- Rohan Joshi
+- Saanvi Desai
+
+Customers Who Bought Both Electronics and Clothing:
+- Aarav Sharma
+- Priya Reddy
+- Rohan Joshi
+- Saanvi Desai
+
+Unique Products:
+- Bedsheet
+- Bluetooth Speaker
+- Coffee Maker
+- Desk Lamp
+- Dress
+- Headphones
+- Jacket
+- Jeans
+- Kurta
+- Phone Charger
+- Smartwatch
+- Sneakers
+- Storage Basket
+- Tablet
+- USB Cable
+- Vacuum Cleaner
+- Wireless Mouse
+
+Product to Category Mapping:
+- Bedsheet: Home Essentials
+- Bluetooth Speaker: Electronics
+- Coffee Maker: Home Essentials
+- Desk Lamp: Home Essentials
+- Dress: Clothing
+- Headphones: Electronics
+- Jacket: Clothing
+- Jeans: Clothing
+- Kurta: Clothing
+- Phone Charger: Electronics
+- Smartwatch: Electronics
+- Sneakers: Clothing
+- Storage Basket: Home Essentials
+- Tablet: Electronics
+- USB Cable: Electronics
+- Vacuum Cleaner: Home Essentials
+- Wireless Mouse: Electronics
+
+Customer to Ordered Products Mapping:
+- Aarav Sharma: Bluetooth Speaker, Kurta, Storage Basket
+- Diya Iyer: Jeans, Coffee Maker
+- Ishaan Kulkarni: Vacuum Cleaner, Wireless Mouse
+- Kunal Patel: Headphones, Desk Lamp
+- Meera Nair: Bedsheet, Phone Charger
+- Priya Reddy: Dress, USB Cable
+- Rohan Joshi: Smartwatch, Jacket
+- Saanvi Desai: Sneakers, Tablet

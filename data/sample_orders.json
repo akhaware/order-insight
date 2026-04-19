@@ -1,0 +1,19 @@
+[
+  {"order_id": "ORD-1001", "customer_name": "Aarav Sharma", "product": "Bluetooth Speaker", "category": "Electronics", "quantity": 1, "unit_price": "72.00"},
+  {"order_id": "ORD-1002", "customer_name": "Aarav Sharma", "product": "Kurta", "category": "Clothing", "quantity": 2, "unit_price": "24.00"},
+  {"order_id": "ORD-1003", "customer_name": "Aarav Sharma", "product": "Storage Basket", "category": "Home Essentials", "quantity": 1, "unit_price": "18.00"},
+  {"order_id": "ORD-1004", "customer_name": "Diya Iyer", "product": "Jeans", "category": "Clothing", "quantity": 1, "unit_price": "34.00"},
+  {"order_id": "ORD-1005", "customer_name": "Diya Iyer", "product": "Coffee Maker", "category": "Home Essentials", "quantity": 1, "unit_price": "18.00"},
+  {"order_id": "ORD-1006", "customer_name": "Kunal Patel", "product": "Headphones", "category": "Electronics", "quantity": 1, "unit_price": "58.00"},
+  {"order_id": "ORD-1007", "customer_name": "Kunal Patel", "product": "Desk Lamp", "category": "Home Essentials", "quantity": 1, "unit_price": "14.00"},
+  {"order_id": "ORD-1008", "customer_name": "Meera Nair", "product": "Bedsheet", "category": "Home Essentials", "quantity": 2, "unit_price": "16.00"},
+  {"order_id": "ORD-1009", "customer_name": "Meera Nair", "product": "Phone Charger", "category": "Electronics", "quantity": 1, "unit_price": "12.00"},
+  {"order_id": "ORD-1010", "customer_name": "Rohan Joshi", "product": "Smartwatch", "category": "Electronics", "quantity": 1, "unit_price": "118.00"},
+  {"order_id": "ORD-1011", "customer_name": "Rohan Joshi", "product": "Jacket", "category": "Clothing", "quantity": 1, "unit_price": "42.00"},
+  {"order_id": "ORD-1012", "customer_name": "Saanvi Desai", "product": "Sneakers", "category": "Clothing", "quantity": 1, "unit_price": "28.00"},
+  {"order_id": "ORD-1013", "customer_name": "Saanvi Desai", "product": "Tablet", "category": "Electronics", "quantity": 1, "unit_price": "84.00"},
+  {"order_id": "ORD-1014", "customer_name": "Ishaan Kulkarni", "product": "Vacuum Cleaner", "category": "Home Essentials", "quantity": 1, "unit_price": "46.00"},
+  {"order_id": "ORD-1015", "customer_name": "Ishaan Kulkarni", "product": "Wireless Mouse", "category": "Electronics", "quantity": 1, "unit_price": "16.00"},
+  {"order_id": "ORD-1016", "customer_name": "Priya Reddy", "product": "Dress", "category": "Clothing", "quantity": 1, "unit_price": "22.00"},
+  {"order_id": "ORD-1017", "customer_name": "Priya Reddy", "product": "USB Cable", "category": "Electronics", "quantity": 2, "unit_price": "8.00"}
+]
